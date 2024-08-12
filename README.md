@@ -1,2 +1,2 @@
-# kngms-repo
+# EUPowerSystem
 My public repository
